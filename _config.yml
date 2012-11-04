@@ -1,4 +1,4 @@
 markdown: rdiscount
 permalink: /:year/:month/:title/
-author: wjs1986
+author: junsuo
 pygments: true
