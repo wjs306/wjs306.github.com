@@ -1,5 +1,5 @@
 ---
-title: junsuo
+title: home
 layout: page
 ---
 
