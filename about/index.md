@@ -7,7 +7,7 @@ layout: page
 之前也搭建过博客，做过专业有关的网站，都不了了之，希望这次的博客之旅能够坚持下去，发布内容不求多，只求持之以恒...  
 
 #联系方式
-邮件：<mail@junsuo.com> 网站：<http://junsuo.name/>  
+邮件：<hi@junsuo.name> 网站：<http://junsuo.name/>  
 
 
 [统计之都]: http://cos.name/
